@@ -18,7 +18,7 @@ Users should be able to:
 
 ## Style Guide
 
-<img src="/assets/design/huddle-styleguide.png" style="height:500px;">
+<img src="/assets/design/huddle-styleguide.png" style="height:300px;">
 
 ## Result
 
