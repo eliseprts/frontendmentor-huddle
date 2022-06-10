@@ -22,6 +22,8 @@ Users should be able to:
 
 ## Result
 
+[GitHub page](https://eliseprts.github.io/frontendmentor-huddle/)
+
 <div style="display:flex; justify-content:space-between; gap:20px;">
     <img src="/assets/design/desktop-screenshot.png" style="height:500px;">
     <img src="/assets/design/mobile-screenshot.png" style="height:500px;">
