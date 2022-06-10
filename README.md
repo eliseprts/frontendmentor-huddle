@@ -18,11 +18,11 @@ Users should be able to:
 
 ## Style Guide
 
-<img src="/assets/design/huddle-styleguide.png" style="height:300px;">
+<img src="/assets/design/huddle-styleguide.png" style="height:400px;">
 
 ## Result
 
 <div style="display:flex; justify-content:space-between; gap:20px;">
-    <img src="/assets/design/desktop-screenshot.png" style="height:500px;">
-    <img src="/assets/design/mobile-screenshot.png" style="height:500px;">
+    <img src="/assets/design/desktop-screenshot.png" style="height:400px;">
+    <img src="/assets/design/mobile-screenshot.png" style="height:400px;">
 </div>
