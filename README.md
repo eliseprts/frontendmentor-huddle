@@ -43,6 +43,6 @@ Desktop : breakpoint at 1024px
 ## Result
 
 <div style="display:flex; justify-content:space-between;">
-    <img src="/assets/design/desktop-screenshot.png" style="height:100px">
-    <img src="/assets/design/mobile-screenshot.png" style="height:100px">
+    <img src="/assets/design/desktop-screenshot.png" style="height:500px">
+    <img src="/assets/design/mobile-screenshot.png" style="height:500px">
 </div>
