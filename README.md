@@ -18,31 +18,11 @@ Users should be able to:
 
 ## Style Guide
 
-### Responsive Design
-
-Desktop : breakpoint at 1024px
-
-### Colors
-
-- Violet: #674baf
-- Dark Violet : #4c1d95
-- Fuchsia : #d946ef
-
-### Fonts
-
-#### Headings
-
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
-- Weights: 400, 600
-
-#### Body
-
-- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- Weights: 400
+<img src="/assets/design/huddle-styleguide.png" style="height:500px;">
 
 ## Result
 
 <div style="display:flex; justify-content:space-between; gap:20px;">
-    <img src="/assets/design/desktop-screenshot.png" style="height:500px">
-    <img src="/assets/design/mobile-screenshot.png" style="height:500px">
+    <img src="/assets/design/desktop-screenshot.png" style="height:500px;">
+    <img src="/assets/design/mobile-screenshot.png" style="height:500px;">
 </div>
