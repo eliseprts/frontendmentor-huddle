@@ -1,0 +1,14 @@
+.customBackground {
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(/assets/images/bg-mobile.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (min-width: 1024px) {
+    .customBackground {
+        background-image: url(/assets/images/bg-desktop.svg);
+        background-size: cover;
+    }
+    
+}

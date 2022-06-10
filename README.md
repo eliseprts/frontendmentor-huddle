@@ -16,5 +16,33 @@ Users should be able to:
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+## Style Guide
+
+### Responsive Design
+
+Desktop : breakpoint at 1024px
+
+### Colors
+
+- Violet: #674baf
+- Dark Violet : #4c1d95
+- Fuchsia : #d946ef
+
+### Fonts
+
+#### Headings
+
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 400, 600
+
+#### Body
+
+- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Weights: 400
+
 ## Result
 
+<div style="display:flex; justify-content:space-between;">
+    <img src="/assets/design/desktop-screenshot.png">
+    <img src="/assets/design/mobile-screenshot.png">
+</div>

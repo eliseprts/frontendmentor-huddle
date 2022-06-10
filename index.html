@@ -7,6 +7,8 @@
   <title>Frontend Mentor | Huddle landing page with single introductory section</title>
   <!-- Tailwind -->
   <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Style -->
+  <link rel="stylesheet" href="style.css">
   <!-- Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <!-- Fonts -->
@@ -14,10 +16,13 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 </head>
-<body class="bg-gradient-to-l from-purple-500 to-violet-900 my-10 mx-10">
+
+<!-- <body class="bg-violet-900 bg-[url('/huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg')] bg-top bg-no-repeat my-10 mx-10 lg:bg-[url('/huddle-landing-page-with-single-introductory-section-master/images/bg-desktop.svg')] lg:bg-cover lg:bg-center"> -->
+
+<body class="my-10 mx-10 customBackground">
 
   <nav>
-    <img src="/huddle-landing-page-with-single-introductory-section-master/images/logo.svg" alt="Huddle logo" class="w-40">
+    <img src="/assets/images/logo.svg" alt="Huddle logo" class="w-40">
   </nav>
 
   <!-- <section class="flex flex-col lg:flex-row lg:space-x-14 lg:items-center"> -->
@@ -25,7 +30,7 @@
   <section class="grid grid-cols-1 lg:grid-cols-[1.2fr_0.8fr] lg:gap-20">
     
     <div class="mt-20">
-      <img src="/huddle-landing-page-with-single-introductory-section-master/images/illustration-mockups.svg" alt="mockup" class="w-full lg:min-w-50">
+      <img src="/assets/images/illustration-mockups.svg" alt="mockup" class="w-full lg:min-w-50">
     </div>
 
     <div class="mt-20 flex flex-col items-center justify-center lg:items-start">
@@ -42,19 +47,19 @@
   <section class="mt-20 flex space-x-3 justify-center lg:justify-end lg:mt-8" >
 
       <a href="#" class="">
-        <div class="flex justify-center items-center w-10 h-10 border rounded-full font-['Open_Sans'] text-white hover:text-pink-500 hover:border-pink-500">
+        <div class="flex justify-center items-center w-10 h-10 border rounded-full font-['Open_Sans'] text-white hover:text-fuchsia-500 hover:border-fuchsia-500">
           <i class="fa-brands fa-facebook-f"></i>
         </div>
       </a>
 
       <a href="#" class="">
-        <div class="flex justify-center items-center w-10 h-10 border rounded-full text-white hover:text-pink-500 hover:border-pink-500">
+        <div class="flex justify-center items-center w-10 h-10 border rounded-full text-white hover:text-fuchsia-500 hover:border-fuchsia-500">
           <i class="fa-brands fa-twitter"></i>
         </div>
       </a>
 
       <a href="#" class="">
-        <div class="flex justify-center items-center w-10 h-10 border rounded-full text-white hover:text-pink-500 hover:border-pink-500">
+        <div class="flex justify-center items-center w-10 h-10 border rounded-full text-white hover:text-fuchsia-500 hover:border-fuchsia-500">
           <i class="fa-brands fa-instagram"></i>
         </div>
       </a>
@@ -63,8 +68,8 @@
 
   <footer class="mt-20">
     <p class="text-center text-sm text-violet-300">
-      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" class="underline hover:text-pink-500">Frontend Mentor</a>. 
-      Coded by <a href="https://github.com/eliseprts" target="_blank" class="underline hover:text-pink-500">Elise Pourtois</a>.
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" class="underline hover:text-fuchsia-500">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/eliseprts" target="_blank" class="underline hover:text-fuchsia-500">Elise Pourtois</a>.
     </p>
   </footer>
 </body>
